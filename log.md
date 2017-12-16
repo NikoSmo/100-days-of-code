@@ -15,6 +15,7 @@ Skipped a day, b.c. of reasons.
 **Today's Progress**: worked on my chatbot, inspired by sentdex, improving database generation für a larger and hopefully better dataset. Also finished the SQL Course
 
 **Thoughts:** Gonna run the database generation tonight, see how it goes. Will need to find some sweet and cheap Cloud GPU for the training process at some point. 
+
 Learned that running courses doesn't technically count as coding during this challenge. Will keep that in mind from now on! 
 
 **Link to work:** my own repo on the reddit-chatbot :)
