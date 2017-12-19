@@ -31,7 +31,11 @@ Activation Functions such as: Linear, Sigmoid, RELU and Hyberbolic
 
 Also played around with OpenAI library and an Actor-Critic-Agent for solving the Pendulum Problem
 
+**Link to Actor-Critic-Agent:** https://github.com/llSourcell/actor_critic
+
 ### Day 3: December 18, 2017
 **Today's Progress**: starting a Frogger Game with Pygame Library as a Framework. 
 
 So far the frog looks froggy and can move trough the environment like a boss. The environment is currently empty though.
+
+**Link to work:** my python-games repo
