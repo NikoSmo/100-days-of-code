@@ -19,3 +19,19 @@ Skipped a day, b.c. of reasons.
 Learned that running courses doesn't technically count as coding during this challenge. Will keep that in mind from now on! 
 
 **Link to work:** my own repo on the reddit-chatbot :)
+
+### Day 2: December 17, 2017
+
+**Today's Progress**: Mostly Learning about Machine Learning Concepts and applications in Python.
+This includes Concepts such as the general structure of a Feed Forward Neural Network
+
+Loss Functions such as : Binary Cross Entropy, Cross Entropy, RMSE (Root Mean Squared Error)
+
+Activation Functions such as: Linear, Sigmoid, RELU and Hyberbolic
+
+Also played around with OpenAI library and an Actor-Critic-Agent for solving the Pendulum Problem
+
+### Day 3: December 18, 2017
+**Today's Progress**: starting a Frogger Game with Pygame Library as a Framework. 
+
+So far the frog looks froggy and can move trough the environment like a boss. The environment is currently empty though.
