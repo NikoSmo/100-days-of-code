@@ -39,3 +39,33 @@ Also played around with OpenAI library and an Actor-Critic-Agent for solving the
 So far the frog looks froggy and can move trough the environment like a boss. The environment is currently empty though.
 
 **Link to work:** my python-games repo
+
+### Day 5: December 19, 2017
+**Today's Progress**: On Frogger -> Trunks And Score- and Lifeboard are now in the frogger game
+
+### Day 6: December 20, 2017
+**Today's Progress**: On Frogger -> Cars are now available. Also Safe Zones and Collision Handlers are available now.
+
+**Thoughts:** Boundaries need to be set next. Also realize i was spoiled using Unity before handling this stuff for me :)
+
+### Day 7: December 21, 2017
+**Today's Progress**: On Frogger -> Game Design improved. Game Functionality including borders is now mostly finished. Game is playable.
+
+Also Obstacles such as Trunks and Cars are now correctly deleted upon leaving the map.
+
+**Thoughts**: Need to find a way to naturally spawn obstacles without collisions
+
+### Day 8: December 22, 2017
+**Today's Progress**: On Frogger -> Didn't get done much today ;/.  Rework of Game Art using new transparent sprites, making the game slightly less hideous. 
+
+### Day 9: December 23, 2017
+**Today's Progress**: Yet another Art Design Change. This time for the Environment. Also changed issues with the collision handling by fixing the obstacles sizes. Played around with offsets in the game to make Frogs, Obstacles and Environment more aligned with each other.
+
+Also now running a NMT-Chatbot Training Session on my local PC using a one month modified dataset from reddit data. The training Process will probably take a few days. Can't wait to see the results. I'll probably do some sort of afterprocessing on the 
+model and might even make it into a twitter bot for jokes. We'll see.
+
+### Cheat Day: December 24. 2017
+No Progress Today because of holiday and family. Will start tomorrow again.
+
+
+
