@@ -67,5 +67,15 @@ model and might even make it into a twitter bot for jokes. We'll see.
 ### Cheat Day: December 24. 2017
 No Progress Today because of holiday and family. Will start tomorrow again.
 
+### Day 10: December 25, 2017
+**Today's Progress**: On Frogger -> Implemented the random Obstacle Generation for Trunks and Cars and removed colliding Obstacles.
+Project is done!
 
+### Day 11: December 26, 2017
+**Today's Progress**: Mostly HTML and CSS readup. Also refreshed knowledge about the functionality of a Feedforward Deep Neural Network.
 
+### Cheat Day: December 27. 2017
+No Progress Today because of holiday and family.
+
+### Cheat Day: December 28. 2017
+No Progress Today because of holiday and family.
